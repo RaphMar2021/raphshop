@@ -1,7 +1,7 @@
 # RaphShop 🛒
 RaphShop is a shop plugin made for 1.19+ Minecraft Servers!
 
-##How it works?
+## How it works?
 
 Like a normal shop. Type /shop in the chat, click the item you want buy and voila!
 
