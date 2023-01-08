@@ -1,0 +1,8 @@
+name: RaphShop
+main: fr.raphmar2019.reenashop.ReenaShop
+version: 1.0
+api-version: 1.19
+commands:
+   shop:
+      description: Opens the RaphShop main GUI.
+      usage: /<command>
